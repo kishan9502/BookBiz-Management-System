@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.AuthorPage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.BookPage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.ClientPage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.EmployeePage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.EntryPage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.OrderPage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.Properties.Resources.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\bin\Debug\BookBiz Management System.exe.config
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\bin\Debug\BookBiz Management System.exe
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\bin\Debug\BookBiz Management System.pdb
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz_Management_System.GUI.InventoryPage.resources
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.exe
+C:\Users\Admin\source\repos\BookBiz Management System\BookBiz Management System\obj\Debug\BookBiz Management System.pdb
